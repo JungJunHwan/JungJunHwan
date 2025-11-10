@@ -4,6 +4,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://solved.ac/qoqkd0221">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=qoqkd0221" />
+    <img src="https://mazassumnida.wtf/api/generate_badge?boj=qoqkd0221" width="40%" />
   </a>
 </p>
